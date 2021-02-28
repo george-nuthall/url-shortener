@@ -6,7 +6,7 @@ Get a condensed URL using the Bitly API
 2. Install Bitly API - https://pypi.org/project/bitly-api-py3/
 
 ## Run
-1. cd url-shortner
+1. run `cd url-shortner`
 2. run `python url-shortner.py`
 
 ## Limitations
