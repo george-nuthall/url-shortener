@@ -14,4 +14,4 @@ The free use of Bitly API only allows for 20 uses
 
 ## Future Improvements
 1. Request OAuth token using credentials instead of hard coded pre-generated token
-2. Add error handling for incorrect URLS
+2. Add error handling for incorrect URL's
